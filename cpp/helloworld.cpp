@@ -20,7 +20,7 @@ public:
     }
 };
 
-int Base::m_x = 20;
+int Base::m_x = 200;
 int main()
 {
     Base obj;
